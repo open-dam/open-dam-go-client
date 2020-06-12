@@ -12,6 +12,6 @@ model_assets.go
 model_job.go
 model_job_create.go
 model_kind.go
-model_tasks.go
+model_task.go
 model_version.go
 response.go

@@ -10,5 +10,5 @@
 package opendamclient
 // JobCreate The task information for a workflow
 type JobCreate struct {
-	Tasks Task `json:"tasks,omitempty"`
+	Tasks []Task `json:"tasks,omitempty"`
 }

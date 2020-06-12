@@ -8,14 +8,9 @@
  */
 
 package opendamclient
-// Kind The kind of media
-type Kind string
-
-// List of kind
-const (
-	IMAGE Kind = "image"
-	VIDEO Kind = "video"
-	AUDIO Kind = "audio"
-	TEXT Kind = "text"
-	UNKNOWN Kind = "unknown"
-)
+// AssetCreate The information required to start the workflow to create or update an asset
+type AssetCreate struct {
+	Url string `json:"url"`
+	// The unique id of the asset
+	AssetId string `json:"asset_id,omitempty"`
+}

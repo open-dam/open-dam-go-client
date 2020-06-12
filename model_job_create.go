@@ -8,14 +8,7 @@
  */
 
 package opendamclient
-// Kind The kind of media
-type Kind string
-
-// List of kind
-const (
-	IMAGE Kind = "image"
-	VIDEO Kind = "video"
-	AUDIO Kind = "audio"
-	TEXT Kind = "text"
-	UNKNOWN Kind = "unknown"
-)
+// JobCreate The task information for a workflow
+type JobCreate struct {
+	Tasks Task `json:"tasks,omitempty"`
+}

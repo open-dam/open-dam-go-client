@@ -5,10 +5,13 @@ go.mod
 go.sum
 model_api_error.go
 model_asset.go
+model_asset_create.go
 model_asset_file.go
 model_asset_update.go
 model_assets.go
 model_job.go
+model_job_create.go
 model_kind.go
+model_tasks.go
 model_version.go
 response.go

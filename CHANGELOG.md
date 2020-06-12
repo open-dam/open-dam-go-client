@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/open-dam/open-dam-go-client/compare/v1.0.0...v1.0.1) (2020-06-12)
+
+### Bug Fixes
+
+- fix tasks schema ([0f53317](https://github.com/open-dam/open-dam-go-client/commit/0f53317a202d045cc1c274d23e46c09941bff4b1))
+
 # 1.0.0 (2020-06-12)
 
 ### Bug Fixes

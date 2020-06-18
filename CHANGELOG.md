@@ -1,3 +1,13 @@
+## [1.0.3](https://github.com/open-dam/open-dam-go-client/compare/v1.0.2...v1.0.3) (2020-06-18)
+
+### Bug Fixes
+
+- use repo name ([2473593](https://github.com/open-dam/open-dam-go-client/commit/2473593e437519345c36acfa85fe8ea9edba7649))
+
+### Other
+
+- Merge branch 'master' of github.com:open-dam/open-dam-go-client ([d1caa56](https://github.com/open-dam/open-dam-go-client/commit/d1caa566f8ca9cd7aa5e8a81d2f95fceb89c7796))
+
 ## [1.0.2](https://github.com/open-dam/open-dam-go-client/compare/v1.0.1...v1.0.2) (2020-06-18)
 
 ### Bug Fixes

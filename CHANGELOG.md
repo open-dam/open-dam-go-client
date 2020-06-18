@@ -1,3 +1,9 @@
+## [1.0.2](https://github.com/open-dam/open-dam-go-client/compare/v1.0.1...v1.0.2) (2020-06-18)
+
+### Bug Fixes
+
+- generate mod for repo ([1252dc1](https://github.com/open-dam/open-dam-go-client/commit/1252dc1a67ba7e924fff6423e55c5db0e0107e77))
+
 ## [1.0.1](https://github.com/open-dam/open-dam-go-client/compare/v1.0.0...v1.0.1) (2020-06-12)
 
 ### Bug Fixes

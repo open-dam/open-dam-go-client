@@ -1,4 +1,4 @@
-module github.com/open-dam/opendamclient
+module github.com/open-dam/open-dam-go-client
 
 require (
 	github.com/antihax/optional v1.0.0

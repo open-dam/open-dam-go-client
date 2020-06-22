@@ -17,8 +17,8 @@ type Asset struct {
 	File AssetFile `json:"file"`
 	// additional assets/files associated with the asset
 	Formats []Asset `json:"formats,omitempty"`
-	// A list of metadata tags associated with the asset
+	// A list of metadata tags/classifications associated with the asset
 	Tags []string `json:"tags,omitempty"`
-	// Any user supplied metadata for the asset
-	Metadata map[string]map[string]interface{} `json:"metadata,omitempty"`
+	// Any user supplied or extracted metadata for the asset
+	Metadata map[string]interface{} `json:"metadata,omitempty"`
 }

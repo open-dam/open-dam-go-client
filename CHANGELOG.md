@@ -1,3 +1,9 @@
+## [1.0.4](https://github.com/open-dam/open-dam-go-client/compare/v1.0.3...v1.0.4) (2020-06-22)
+
+### Bug Fixes
+
+- update asset metadata ([2c71b4b](https://github.com/open-dam/open-dam-go-client/commit/2c71b4becc84b8a3e1f027c1b7e322534b16b58a))
+
 ## [1.0.3](https://github.com/open-dam/open-dam-go-client/compare/v1.0.2...v1.0.3) (2020-06-18)
 
 ### Bug Fixes
